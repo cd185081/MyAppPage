@@ -133,5 +133,7 @@ align-items: center;
     margin-right: 0.25rem;
 }
 .result-input {
-    width: 1200px; /* or any size you want */
+    width: 1200px; /* adjust as needed */
+    height: 200px; /* controls visible rows */
+    resize: both; /* allow user to resize vertically */
 }
