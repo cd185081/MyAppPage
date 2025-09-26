@@ -120,7 +120,7 @@ code {
 }
 
 .settings-row label {
-    min-width: 380px; /* keeps labels aligned */
+    min-width: 300px; /* keeps labels aligned */
     font-weight: bold;
 }
 
@@ -133,5 +133,5 @@ align-items: center;
     margin-right: 0.25rem;
 }
 .result-input {
-    width: 1000px; /* or any size you want */
+    width: 1200px; /* or any size you want */
 }
